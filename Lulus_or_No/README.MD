@@ -149,7 +149,6 @@ Student-Final-Grade-Prediction/
 ├── student-mat.csv
 ├── requirements.txt
 ├── README.md
-└── assets/
 ```
 
 ---
@@ -159,7 +158,7 @@ Student-Final-Grade-Prediction/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/anggaraniirma-cmy/Lulus_or_No.git
+git clone https://github.com/anggaraniirma-cmy/Lulus_or_No/Lulus_or_No.git
 ```
 
 ### 2. Masuk ke Folder
