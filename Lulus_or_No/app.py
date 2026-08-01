@@ -123,20 +123,20 @@ health = st.slider(
 )
 
 absences = st.number_input(
-    "Jumlah Ketidakhadiran",
+    "Jumlah Ketidakhadiran dalam 2 semester",
     min_value=0,
     value=0
 )
 
 g1 = st.slider(
-    "Nilai Semester 1 (G1)",
+    "Nilai Semester Rata-rata 1 (G1)",
     0,
     100,
     75
 )
 
 g2 = st.slider(
-    "Nilai Semester 2 (G2)",
+    "Nilai Semester Rata-rata 2 (G2)",
     0,
     100,
     75
