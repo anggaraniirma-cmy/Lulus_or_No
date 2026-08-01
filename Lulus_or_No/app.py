@@ -196,7 +196,7 @@ if st.button("🔍 Prediksi Nilai Akhir", use_container_width=True):
         st.success("""
 ### 🏆 Predikat : Sangat Baik
 
-✅ **Status : LULUS**
+✅ **Status : LULUS DAN NAIK KELAS**
 
 Selamat! Nilai akhir sangat memuaskan.
 """)
@@ -206,7 +206,7 @@ Selamat! Nilai akhir sangat memuaskan.
         st.success("""
 ### 🎉 Predikat : Baik
 
-✅ **Status : LULUS**
+✅ **Status : LULUS DAN NAIK KELAS**
 
 Pertahankan prestasi belajarmu.
 """)
